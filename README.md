@@ -10,7 +10,6 @@
 - 🛡️ **Pentesting**: Especializado en resolución de CTFs y escalada de privilegios en Linux/Windows.
 - 🐍 **Automation**: Desarrollador de herramientas en **Python** y **Bash** (creador de Auto-Recon).
 - ⚙️ **Labs**: Entornos avanzados de virtualización y VDI para pruebas de concepto (PoC).
-- 🌐 **Comunidad**: Founder & Moderator en [r/HackinEtico](https://www.reddit.com/r/HackinEtico/).
 
 ## 🎸 On the Road
 - **Música**: Guitarrista activo de cumbia ranchera (Telecaster Thinline user).
