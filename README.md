@@ -12,14 +12,14 @@
 - ⚙️ **Labs**: Entornos avanzados de virtualización y VDI para pruebas de concepto (PoC).
 
 ## 🎸 On the Road
-- **Música**: Guitarrista activo de cumbia ranchera (Telecaster Thinline user).
+- **Música**: Guitarrista activo de cumbia ranchera.
 - **Proyectos**: Mezclando el rigor técnico de la ingeniería con la energía de las tocatas.
 
 ---
 
 ## 🛠️ Proyectos Destacados
 - [**Auto-Recon**](https://github.com/yorve/Auto-Recon): Mi suite de automatización para fases de reconocimiento en laboratorios de Pentesting.
-- [**SecNotes 2.0**](https://yorve.github.io/Secnotes2.0/): Base de conocimientos técnica con writeups detallados y parpadeo de terminal.
+- [**SecNotes 2.0**](https://yorve.github.io/Secnotes2.0/): Base de conocimientos técnica con writeups detallados y fáciles de entender.
 
 ---
 
