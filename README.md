@@ -15,7 +15,7 @@
 
 ## 🛡️ Proyectos Destacados
 - **[Auto-Recon](https://github.com/yorve/Auto-Recon)**: Script para automatización de fases de reconocimiento inicial para laboratorios.
-- **[SecNotes](https://yorve.github.io/secnotes/)**: Mi blog personal donde publico writeups detallados de máquinas enfocado en explicar de forma clara.
+- **[SecNotes](https://yorve.github.io/Secnotes2.0/)**: Mi blog personal donde publico writeups detallados de máquinas enfocado en explicar de forma clara.
 
 ---
 
