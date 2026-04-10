@@ -1,35 +1,39 @@
-# Hola! Soy Yony, conocido por yorve 🇨🇱 🛡️ 🎸
+# Hola! Soy Yony (yorve) 🇨🇱 🛡️ 🎸
 
-### Estudiante de Ingeniería en Ciberseguridad | Pentester | Músico de Cumbia Ranchera
+### Estudiante de Ingeniería en Ciberseguridad | Pentester | Guitarrista de Cumbia Ranchera
 
-¡Bienvenidos a mi perfil! Soy un apasionado por la seguridad ofensiva, el scripting y la música. Me dedico a documentar mi aprendizaje en el mundo del **Hacking Ético** a través de la resolución de máquinas en plataformas como **DockerLabs**.
+¡Bienvenidos a mi terminal! Soy un apasionado por la seguridad ofensiva y la automatización. Me dedico a documentar mi aprendizaje en el mundo del **Hacking Ético** y compartirlo con la comunidad.
 
 ---
 
-## 🚀 Sobre mí
-- 🛡️ **Pentesting**: Enfocado en la resolución de CTFs y técnicas de escalada de privilegios.
-- 🐍 **Scripting**: Automatizo tareas de reconocimiento y análisis con **Python** y **Bash**.
-- 💻 **Entorno**: Trabajo principalmente en **Kali Linux** sobre entornos virtualizados (**VMware / VirtualBox**).
-- 🎸 **Música**: Guitarrista de cumbia ranchera
-- 📍 **Ubicación**: Santiago de Chile.
+## 🛡️ Cybersecurity Arsenal
+- 🛡️ **Pentesting**: Especializado en resolución de CTFs y escalada de privilegios en Linux/Windows.
+- 🐍 **Automation**: Desarrollador de herramientas en **Python** y **Bash** (creador de Auto-Recon).
+- ⚙️ **Labs**: Entornos avanzados de virtualización y VDI para pruebas de concepto (PoC).
+- 🌐 **Comunidad**: Founder & Moderator en [r/HackinEtico](https://www.reddit.com/r/HackinEtico/).
 
-## 🛡️ Proyectos Destacados
-- **[Auto-Recon](https://github.com/yorve/Auto-Recon)**: Script para automatización de fases de reconocimiento inicial para laboratorios.
-- **[SecNotes](https://yorve.github.io/Secnotes2.0/)**: Mi blog personal donde publico writeups detallados de máquinas enfocado en explicar de forma clara.
+## 🎸 On the Road
+- **Música**: Guitarrista activo de cumbia ranchera (Telecaster Thinline user).
+- **Proyectos**: Mezclando el rigor técnico de la ingeniería con la energía de las tocatas.
+
+---
+
+## 🛠️ Proyectos Destacados
+- [**Auto-Recon**](https://github.com/yorve/Auto-Recon): Mi suite de automatización para fases de reconocimiento en laboratorios de Pentesting.
+- [**SecNotes 2.0**](https://yorve.github.io/Secnotes2.0/): Base de conocimientos técnica con writeups detallados y parpadeo de terminal.
 
 ---
 
 ## ☕ Apoya mi contenido
-Si mis writeups o scripts te han servido de ayuda, ¡puedes invitarme un café o una chela para la próxima tocata!
+Si mis writeups o herramientas te han servido, ¡puedes invitarme un café para las noches de estudio o una chela para la próxima tocata!
 
-[![Buy Me A Coffee]<a href="https://buymeacoffee.com/yorve" target="_blank" class="donate-btn">
-
-    <i class="fas fa-coffee"></i> Apoya el contenido de SecNotes </a>
+<a href="https://buymeacoffee.com/yorve" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
+</a>
 
 ---
 
 ## 📫 Conectemos
-- **Blog:** [SecNotes](https://yorve.github.io/Secnotes2.0/)
-- **Email:** [jojerivel@gmail.com](mailto:jojerivel@gmail.com)
-- **LinkedIn:** [Yonathan Rivera](https://www.linkedin.com/in/yonathan-rivera-v)
-- **TikTok:** https://www.tiktok.com/@yony.rv
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonathan-rivera-v)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jojerivel@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yony.rv)
