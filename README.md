@@ -22,12 +22,14 @@
 ## ☕ Apoya mi contenido
 Si mis writeups o scripts te han servido de ayuda, ¡puedes invitarme un café o una chela para la próxima tocata!
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Invítame un café&emoji=☕&slug=yorve&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/yorve)
+[![Buy Me A Coffee]<a href="https://buymeacoffee.com/yorve" target="_blank" class="donate-btn">
+
+    <i class="fas fa-coffee"></i> Apoya el contenido de SecNotes </a>
 
 ---
 
 ## 📫 Conectemos
-- **Blog:** [SecNotes](https://yorve.github.io/secnotes/)
+- **Blog:** [SecNotes](https://yorve.github.io/Secnotes2.0/)
 - **Email:** [jojerivel@gmail.com](mailto:jojerivel@gmail.com)
 - **LinkedIn:** [Yonathan Rivera](https://www.linkedin.com/in/yonathan-rivera-v)
 - **TikTok:** https://www.tiktok.com/@yony.rv
