@@ -19,7 +19,7 @@
 
 ## 🛠️ Proyectos Destacados
 - [**Auto-Recon**](https://github.com/yorve/Auto-Recon): Mi suite de automatización para fases de reconocimiento en laboratorios de Pentesting.
-- [**SecNotes 2.0**](https://yorve.github.io/Secnotes2.0/): Base de conocimientos técnica con writeups detallados y fáciles de entender.
+- [**SecNotes 2.0**](https://yorve.github.io/secnotes/): Base de conocimientos técnica con writeups detallados y fáciles de entender.
 
 ---
 
