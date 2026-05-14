@@ -2,23 +2,18 @@
 
 ### Estudiante de Ingeniería en Ciberseguridad | Pentester | Guitarrista de Cumbia Ranchera
 
-¡Bienvenidos a mi terminal! Soy un apasionado por la seguridad ofensiva y la automatización. Me dedico a documentar mi aprendizaje en el mundo del **Hacking Ético** y compartirlo con la comunidad.
+¡Bienvenidos a mi terminal! Soy un apasionado por la seguridad ofensiva y la enseñanza. Me dedico a documentar mi aprendizaje en el mundo del **Hacking Ético** y compartirlo con la comunidad.
 
 ---
 
 ## 🛡️ Cybersecurity Arsenal
-- 🛡️ **Pentesting**: Especializado en resolución de CTFs y escalada de privilegios en Linux/Windows.
-- 🐍 **Automation**: Desarrollador de herramientas en **Python** y **Bash** (creador de Auto-Recon).
+- 🛡️ **Pentesting**: Especializado en resolución de laboratorios y documentaciónd e los procesos.
 - ⚙️ **Labs**: Entornos avanzados de virtualización y VDI para pruebas de concepto (PoC).
-
-## 🎸 On the Road
-- **Música**: Guitarrista activo de cumbia ranchera.
-- **Proyectos**: Mezclando el rigor técnico de la ingeniería con la energía de las tocatas.
 
 ---
 
 ## 🛠️ Proyectos Destacados
-- [**Auto-Recon**](https://github.com/yorve/Auto-Recon): Mi suite de automatización para fases de reconocimiento en laboratorios de Pentesting.
+- [**Auto-Recon**](https://github.com/yorve/Auto-Recon): Mi suite de automatización para fases de reconocimiento básicos en laboratorios de Pentesting.
 - [**SecNotes 2.0**](https://yorve.github.io/secnotes/): Base de conocimientos técnica con writeups detallados y fáciles de entender.
 
 ---
