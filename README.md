@@ -1,33 +1,46 @@
-# Hola! Soy Yony (yorve) 🇨🇱 🛡️ 🎸
+# ¡Hola! Soy Yony (yorve) 🇨🇱 🛡️ 🎸
 
-### Estudiante de Ingeniería en Ciberseguridad | Pentester | Guitarrista de Cumbia Ranchera
+**Estudiante de Ingeniería en Ciberseguridad | Red Team & SOC Trainee | Guitarrista de Cumbia Ranchera**
 
-¡Bienvenidos a mi terminal! Soy un apasionado por la seguridad ofensiva y la enseñanza. Me dedico a documentar mi aprendizaje en el mundo del **Hacking Ético** y compartirlo con la comunidad.
-
----
-
-## 🛡️ Cybersecurity Arsenal
-- 🛡️ **Pentesting**: Especializado en resolución de laboratorios y documentaciónd e los procesos.
-- ⚙️ **Labs**: Entornos avanzados de virtualización y VDI para pruebas de concepto (PoC).
+Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza. Me dedico a documentar mi aprendizaje en el mundo del Hacking Ético, desarrollar herramientas y compartirlo con la comunidad.
 
 ---
 
-## 🛠️ Proyectos Destacados
-- [**Auto-Recon**](https://github.com/yorve/Auto-Recon): Mi suite de automatización para fases de reconocimiento básicos en laboratorios de Pentesting.
-- [**SecNotes 2.0**](https://yorve.github.io/secnotes/): Base de conocimientos técnica con writeups detallados y fáciles de entender.
+### 🛡️ Cybersecurity Arsenal & Skills
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-005577?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+* **🛡️ Pentesting & Red Team:** Resolución de laboratorios interactivos (HackTheBox, TryHackMe, VulnHub) y documentación de procesos de explotación/escalación.
+* **⚙️ Labs & Virtualización:** Despliegue de entornos controlados y VDI para pruebas de concepto (PoC) e investigación de vulnerabilidades.
+* **🎓 Docencia:** Ayudante de Cátedra en programas de Hacking Ético, Pentesting y Ciberseguridad Ofensiva/Defensiva (USACH y USIL).
 
 ---
 
-## ☕ Apoya mi contenido
-Si mis writeups o herramientas te han servido, ¡puedes invitarme un café para las noches de estudio o una chela para la próxima tocata!
+### 🛠️ Proyectos Destacados
 
-<a href="https://buymeacoffee.com/yorve" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
-</a>
+* 🔍 **[Auto-Recon](https://github.com/yorve):** Suite de automatización para fases de reconocimiento inicial y escaneo de puertos en auditorías y laboratorios.
+* 📖 **[SecNotes 2.0](https://yorve.github.io/secnotes/):** Base de conocimientos técnica pública con *writeups* detallados, guías paso a paso y metodologías de ciberseguridad ofensiva.
 
 ---
 
-## 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonathan-rivera-v)
+### ☕ Apoya mi contenido
+
+Si mis *writeups* o herramientas te han servido en tu camino de aprendizaje:
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com) *(o una chela para la próxima tocata! 🍺🎸)*
+
+---
+
+### 📫 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yonathan-rivera-velozo)
+[![Blog](https://img.shields.io/badge/SecNotes_Blog-121011?style=for-the-badge&logo=githubpages&logoColor=white)](https://yorve.github.io/secnotes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jojerivel@gmail.com)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yony.rv)
+
+---
+*“Documentar es aprender dos veces.”* 🚀
