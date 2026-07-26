@@ -23,7 +23,7 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 
 ### 🛠️ Proyectos Destacados
 
-* 🔍 **[Auto-Recon](https://github.com/yorve):** Suite de automatización para fases de reconocimiento inicial y escaneo de puertos en auditorías y laboratorios.
+* 🔍 **[Auto-Recon](https://github.com/yorve/Auto_Recon.git):** Suite de automatización para fases de reconocimiento inicial y escaneo de puertos en auditorías y laboratorios.
 * 📖 **[SecNotes 2.0](https://yorve.github.io/secnotes/):** Base de conocimientos técnica pública con *writeups* detallados, guías paso a paso y metodologías de ciberseguridad ofensiva.
 
 ---
