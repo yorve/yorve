@@ -24,8 +24,13 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 ### 🏆 Certificaciones Verificadas
 <a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
     <img src=https://images.credly.com/size/340x340/images/01cae53e-c60d-4dd6-a405-adf628cbd22b/InsigniasRedTeam_Campanas.png width="190" height="190" alt="Preparación RedTeam Badge"> 
-<a href="https://www.credly.com/badges/TU-SEGUNDO-ID-AQUI/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="190" height="190" alt="Segunda Certificación">
+<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="190" height="190" alt="CiscoT1">
+<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/20bf9d49-5c35-410b-9e5d-2df1f0adba4e/blob" width="190" height="190" alt="AnalisisRedes">
+<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+    <img src="<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/9e3c298d-b78d-46b7-8e38-c4892cf24979" />
+" width="190" height="190" alt="BlueTeam">    
   
 ### 🛠️ Proyectos Destacados
 
