@@ -23,10 +23,7 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 
 ### 🏆 Certificaciones Verificadas
 
-<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/28131ec8-0329-4702-be79-8d8d348a4c8e/image.png" width="120" height="120" alt="Certified LLM Security Professional (CLLMSP)">
-</a>
-
+[![Credly Badge](https://img.shields.io/badge/Credly-Certified_LLM_Security_Professional-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url)
 
 
 ### 🛠️ Proyectos Destacados
