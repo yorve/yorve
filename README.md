@@ -22,10 +22,9 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 ---
 
 ### 🏆 Certificaciones Verificadas
-
 <a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
-  <img src="https://images.credly.com/images/28131ec8-0329-4702-be79-8d8d348a4c8e/image.png" width="130" height="130" alt="Certified LLM Security Professional (CLLMSP)">
-</a>
+<img src=https://images.credly.com/size/340x340/images/01cae53e-c60d-4dd6-a405-adf628cbd22b/InsigniasRedTeam_Campanas.png width="130" height="130" alt="Preparación RedTeam Badge">
+  
 ### 🛠️ Proyectos Destacados
 
 * 🔍 **[Auto-Recon](https://github.com/yorve/Auto_Recon.git):** Suite de automatización para fases de reconocimiento inicial y escaneo de puertos en auditorías y laboratorios.
