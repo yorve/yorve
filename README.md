@@ -29,8 +29,7 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 <a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/20bf9d49-5c35-410b-9e5d-2df1f0adba4e/blob" width="190" height="190" alt="AnalisisRedes">
 <a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
-    <img src="<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/9e3c298d-b78d-46b7-8e38-c4892cf24979" />
-" width="190" height="190" alt="BlueTeam">    
+    <img src="https://images.credly.com/size/340x340/images/6da73320-3523-4cdd-898d-2564f26f0f4f/blob" width="190" height="190" alt="AnalisisRedes">
   
 ### 🛠️ Proyectos Destacados
 
