@@ -22,17 +22,17 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 ---
 
 ### 🏆 Certificaciones Verificadas
-<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+<a href="https://www.credly.com/badges/1d4e191b-3843-4deb-9655-68ad97acd4cf/public_url" target="_blank">
     <img src=https://images.credly.com/size/340x340/images/01cae53e-c60d-4dd6-a405-adf628cbd22b/InsigniasRedTeam_Campanas.png width="190" height="190" alt="Preparación RedTeam Badge"> 
 <a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" width="190" height="190" alt="CiscoT1">
-<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/431c32fa-86b3-4098-91a7-aae55f901545/image.png" width="190" height="190" alt="CiscoT1">
+<a href="https://www.credly.com/badges/b9c6463f-8b56-4633-8e24-78f27c1faba8/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/20bf9d49-5c35-410b-9e5d-2df1f0adba4e/blob" width="190" height="190" alt="AnalisisRedes">
-<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+<a href="https://www.credly.com/badges/4f7252fe-a914-40a9-8b30-b2a114ea28d6/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/6da73320-3523-4cdd-898d-2564f26f0f4f/blob" width="190" height="190" alt="BlueTeam">
 <a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/6cd2cf46-9d5a-4df6-bcc7-e69c8f053377/image.png" width="190" height="190" alt="RedTeam">
-<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/e18fdfeb-3da7-4011-87a6-bedd71575d7e/image.png" width="190" height="190" alt="RedTeam">
+<a href="https://www.credly.com/badges/dece8f5f-4b8f-49fa-b472-827949d13561/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/41fb6ff2-094d-4fa4-9d2c-e2f9e5bd0418/INSIGNIAS4ayudante.png" width="190" height="190" alt="Ayudante">
   
 ### 🛠️ Proyectos Destacados
