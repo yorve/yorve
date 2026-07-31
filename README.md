@@ -21,6 +21,17 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 
 ---
 
+## 🏆 Certificaciones Verificadas
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="431c32fa-86b3-4098-91a7-aae55f901545" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1d4e191b-3843-4deb-9655-68ad97acd4cf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
+
 ### 🛠️ Proyectos Destacados
 
 * 🔍 **[Auto-Recon](https://github.com/yorve/Auto_Recon.git):** Suite de automatización para fases de reconocimiento inicial y escaneo de puertos en auditorías y laboratorios.
