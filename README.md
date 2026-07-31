@@ -23,8 +23,9 @@ Soy un Apasionado por la seguridad ofensiva, la infraestructura y la enseñanza.
 
 ### 🏆 Certificaciones Verificadas
 
-[![CLLMSP Credly Badge](https://img.shields.io/badge/Credly-Certified_LLM_Security_Professional-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url)
-
+<a href="https://www.credly.com/badges/431c32fa-86b3-4098-91a7-aae55f901545/public_url" target="_blank">
+  <img src="https://images.credly.com/images/28131ec8-0329-4702-be79-8d8d348a4c8e/image.png" width="130" height="130" alt="Certified LLM Security Professional (CLLMSP)">
+</a>
 ### 🛠️ Proyectos Destacados
 
 * 🔍 **[Auto-Recon](https://github.com/yorve/Auto_Recon.git):** Suite de automatización para fases de reconocimiento inicial y escaneo de puertos en auditorías y laboratorios.
